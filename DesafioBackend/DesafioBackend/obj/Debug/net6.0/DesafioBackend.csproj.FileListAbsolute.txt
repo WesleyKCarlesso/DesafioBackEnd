@@ -25,3 +25,16 @@ C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\
 C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\obj\Debug\net6.0\DesafioBackend.pdb
 C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\obj\Debug\net6.0\DesafioBackend.genruntimeconfig.cache
 C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\obj\Debug\net6.0\ref\DesafioBackend.dll
+C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\bin\Debug\net6.0\DnsClient.dll
+C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\bin\Debug\net6.0\Snappier.dll
+C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ninja\Documents\Programas\DesafioBackend\DesafioBackend\DesafioBackend\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
