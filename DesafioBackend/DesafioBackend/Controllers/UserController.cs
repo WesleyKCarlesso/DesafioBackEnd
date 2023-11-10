@@ -54,12 +54,12 @@ namespace DesafioBackend.Controllers
         {
             var users = _userService.GetAll();
 
-            if (Name != null && Name != "")
+            if (Name != null)
             {
                 users = users.Where(x => x.Name.ToLower().Contains(Name.Trim().ToLower())).ToList();
             }
 
-            if (Street != null && Street != "")
+            if (Street != null)
             {
                 users = users.Where(x => x.Address.Street.ToLower().Contains(Street.Trim().ToLower())).ToList();
             }
@@ -68,6 +68,9 @@ namespace DesafioBackend.Controllers
             {
                 return NotFound();
             }
+
+            if ((Name == null && Street == null)) 
+                return new List<User>();
 
             return users;
         }

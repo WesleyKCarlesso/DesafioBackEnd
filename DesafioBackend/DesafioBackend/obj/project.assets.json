@@ -1020,19 +1020,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ninja\\.nuget\\packages\\": {}
+    "C:\\Users\\Wesley\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ninja\\Documents\\Programas\\DesafioBackend\\DesafioBackend\\DesafioBackend\\DesafioBackend.csproj",
+      "projectUniqueName": "C:\\Users\\Wesley\\Documents\\Programas\\DesafioBackend\\DesafioBackEnd\\DesafioBackend\\DesafioBackend\\DesafioBackend.csproj",
       "projectName": "DesafioBackend",
-      "projectPath": "C:\\Users\\ninja\\Documents\\Programas\\DesafioBackend\\DesafioBackend\\DesafioBackend\\DesafioBackend.csproj",
-      "packagesPath": "C:\\Users\\ninja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ninja\\Documents\\Programas\\DesafioBackend\\DesafioBackend\\DesafioBackend\\obj\\",
+      "projectPath": "C:\\Users\\Wesley\\Documents\\Programas\\DesafioBackend\\DesafioBackEnd\\DesafioBackend\\DesafioBackend\\DesafioBackend.csproj",
+      "packagesPath": "C:\\Users\\Wesley\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wesley\\Documents\\Programas\\DesafioBackend\\DesafioBackEnd\\DesafioBackend\\DesafioBackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ninja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Wesley\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1089,7 +1089,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
