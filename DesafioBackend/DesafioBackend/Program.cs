@@ -10,6 +10,7 @@ builder.Services.AddControllers();
 builder.Services.Configure<UserDatabaseConfiguration>(
     builder.Configuration.GetSection("DesafioBackendDatabase")
 );
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

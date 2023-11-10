@@ -10,6 +10,10 @@ namespace DesafioBackend.Models
 
         [BsonElement("Name")]
         public string Name { get; set; } = null!;
-        public string Age { get; set; } = null!;
+
+        [BsonElement("Age")]
+        public int Age { get; set; }
+
+        public Address Address { get; set; } = null!;
     }
 }

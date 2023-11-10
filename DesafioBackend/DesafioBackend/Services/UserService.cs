@@ -14,14 +14,17 @@ namespace DesafioBackend.Services
 
             var desafioBackendDatabase = mongoClient.GetDatabase(userConfiguration.Value.DatabaseName);
 
-            _user = desafioBackendDatabase.GetCollection<User>(userConfiguration.Value.UsersCollectionName);
+            _user = desafioBackendDatabase.GetCollection<User>(userConfiguration.Value.UserCollectionName);
         }
 
         public User GetById(string id) => _user.Find(x => x.Id == id).FirstOrDefault();
 
         public List<User> GetAll() => _user.Find(_ => true).ToList();
 
-        public void Create(User newUser) => _user.InsertOne(newUser);
+        public void Create(User user)
+        {
+            _user.InsertOne(user);
+        }
 
         public void Update(string id, User newUser) => _user.ReplaceOne(x => x.Id == id, newUser);
 
